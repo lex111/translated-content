@@ -1,0 +1,28 @@
+## [ ] 📂 __[Plugins](https://github.com/mdn/content/blob/main/files/en-us/plugins/index.html)__
+   - [ ] 📄 [Blocking By Domain](https://github.com/mdn/content/blob/main/files/en-us/plugins/blocking_by_domain/index.html)
+   - [ ] 📂 __[Flash to HTML5 migration guide](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/index.html)__
+     - [ ] 📄 [Clipboard access](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/clipboard/index.html)
+     - [ ] 📂 __[Flash video to HTML5 video](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/index.html)__
+       - [ ] 📄 [Video advertising](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/advertising/index.html)
+       - [ ] 📄 [Distribution](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/distribution/index.html)
+       - [ ] 📄 [DRM and authentication](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/drm_and_authentication/index.html)
+       - [ ] 📄 [File Format Conversion](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/file_format_conversion/index.html)
+       - [ ] 📄 [Planning your transition from Flash video to HTML5 video](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/planning/index.html)
+       - [ ] 📄 [Video and audio players](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/players/index.html)
+       - [ ] 📄 [Subtitles and closed caption](https://github.com/mdn/content/blob/main/files/en-us/plugins/flash_to_html5/video/subtitles_captions/index.html)
+   - [ ] 📂 __[Gecko Plugin API Reference](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/index.html)__
+     - [ ] 📄 [Browser Side Plug\-in API](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/browser_side_plug-in_api/index.html)
+     - [ ] 📄 [Constants](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/constants/index.html)
+     - [ ] 📄 [Drawing and Event Handling](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/drawing_and_event_handling/index.html)
+     - [ ] 📄 [Initialization and Destruction](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/initialization_and_destruction/index.html)
+     - [ ] 📄 [Memory](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/memory/index.html)
+     - [ ] 📄 [Plug\-in Basics](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/plug-in_basics/index.html)
+     - [ ] 📄 [Plug\-in Development Overview](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/plug-in_development_overview/index.html)
+     - [ ] 📄 [Plug\-in Side Plug\-in API](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/plug-in_side_plug-in_api/index.html)
+     - [ ] 📄 [Scripting plugins](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/scripting_plugins/index.html)
+     - [ ] 📄 [Streams](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/streams/index.html)
+     - [ ] 📄 [Structures](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/structures/index.html)
+     - [ ] 📄 [URLs](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/urls/index.html)
+     - [ ] 📄 [Version, UI, and Status Information](https://github.com/mdn/content/blob/main/files/en-us/plugins/guide/version_ui_and_status_information/index.html)
+   - [ ] 📄 [Plugin Roadmap for Firefox](https://github.com/mdn/content/blob/main/files/en-us/plugins/roadmap/index.html) (🌐 [План поддержки плагинов в Firefox](https://github.com/mdn/translated-content/blob/main/files/ru/plugins/roadmap/index.html))
+

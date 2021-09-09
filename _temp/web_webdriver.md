@@ -1,0 +1,29 @@
+## [ ] 📂 __[WebDriver](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/index.html)__
+   - [ ] 📂 __[Capabilities](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/capabilities/index.html)__
+     - [ ] 📄 [acceptInsecureCerts](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/capabilities/acceptinsecurecerts/index.html)
+     - [ ] 📄 [firefoxOptions](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/capabilities/firefoxoptions/index.html)
+   - [ ] 📂 __[Commands](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/index.html)__
+     - [ ] 📄 [Close Window](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/closewindow/index.html)
+     - [ ] 📄 [Get Element Attribute](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/getelementattribute/index.html)
+     - [ ] 📄 [Get Element Property](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/getelementproperty/index.html)
+     - [ ] 📄 [Get Element Tag Name](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/getelementtagname/index.html)
+     - [ ] 📄 [Get Timeouts](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/gettimeouts/index.html)
+     - [ ] 📄 [Get Window Handles](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/getwindowhandles/index.html)
+     - [ ] 📄 [Get Window Rect](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/getwindowrect/index.html)
+     - [ ] 📄 [New Window](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/new_window/index.html)
+     - [ ] 📄 [Set Timeouts](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/settimeouts/index.html)
+     - [ ] 📄 [Set Window Rect](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/commands/setwindowrect/index.html)
+   - [ ] 📂 __[WebDriver errors](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/index.html)__
+     - [ ] 📄 [Insecure certificate](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/insecurecertificate/index.html)
+     - [ ] 📄 [Invalid argument](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/invalidargument/index.html)
+     - [ ] 📄 [Invalid cookie domain](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/invalidcookiedomain/index.html)
+     - [ ] 📄 [Invalid selector](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/invalidselector/index.html)
+     - [ ] 📄 [Invalid session ID](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/invalidsessionid/index.html)
+     - [ ] 📄 [Javascript error](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/javascripterror/index.html)
+     - [ ] 📄 [Script timeout](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/scripttimeout/index.html)
+     - [ ] 📄 [Stale element reference](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/staleelementreference/index.html)
+     - [ ] 📄 [Unknown command](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/unknowncommand/index.html)
+     - [ ] 📄 [Unknown error](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/unknownerror/index.html)
+     - [ ] 📄 [Unknown method](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/errors/unknownmethod/index.html)
+   - [ ] 📄 [Timeouts](https://github.com/mdn/content/blob/main/files/en-us/web/webdriver/timeouts/index.html)
+

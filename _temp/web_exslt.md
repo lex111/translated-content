@@ -1,0 +1,25 @@
+## [ ] 📂 __[EXSLT](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/index.html)__
+   - [ ] 📂 __[Common \(exsl\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/exsl/index.html)__
+     - [ ] 📄 [exsl:node\-set\(\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/exsl/node-set/index.html)
+     - [ ] 📄 ['exsl:object\-type\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/exsl/object-type/index.html)
+   - [ ] 📂 __[Math \(math\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/math/index.html)__
+     - [ ] 📄 [math:highest\(\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/math/highest/index.html)
+     - [ ] 📄 [math:lowest\(\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/math/lowest/index.html)
+     - [ ] 📄 ['math:max\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/math/max/index.html)
+     - [ ] 📄 [math:min\(\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/math/min/index.html)
+   - [ ] 📂 __[Regular expressions \(regexp\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/regexp/index.html)__
+     - [ ] 📄 ['regexp:match\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/regexp/match/index.html)
+     - [ ] 📄 ['regexp:replace\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/regexp/replace/index.html)
+     - [ ] 📄 ['regexp:test\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/regexp/test/index.html)
+   - [ ] 📂 __[Sets \(set\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/index.html)__
+     - [ ] 📄 ['set:difference\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/difference/index.html)
+     - [ ] 📄 ['set:distinct\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/distinct/index.html)
+     - [ ] 📄 ['set:has\-same\-node\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/has-same-node/index.html)
+     - [ ] 📄 ['set:intersection\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/intersection/index.html)
+     - [ ] 📄 ['set:leading\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/leading/index.html)
+     - [ ] 📄 ['set:trailing\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/set/trailing/index.html)
+   - [ ] 📂 __[Strings \(str\)](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/str/index.html)__
+     - [ ] 📄 ['str:concat\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/str/concat/index.html)
+     - [ ] 📄 ['str:split\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/str/split/index.html)
+     - [ ] 📄 ['str:tokenize\(\)'](https://github.com/mdn/content/blob/main/files/en-us/web/exslt/str/tokenize/index.html)
+

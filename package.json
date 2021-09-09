@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dree": "^2.6.1",
+    "globby": "^11.0.2",
+    "mddir": "^1.1.1",
+    "readdirp": "^3.6.0",
+    "recursive-readdir-async": "^1.1.8"
+  },
+  "scripts": {
+    "test": "node test.js ."
+  }
+}

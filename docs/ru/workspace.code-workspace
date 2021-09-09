@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../.config/yarn/global/node_modules/yaspeller"
+		},
+		{
+			"path": "../../../../../.config/yarn/global/node_modules/md-file-tree"
+		}
+	],
+	"settings": {}
+}

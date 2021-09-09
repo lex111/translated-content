@@ -1,0 +1,18 @@
+## [ ] 📂 __[Web media technologies](https://github.com/mdn/content/blob/main/files/en-us/web/media/index.html)__ (🌐 [Web media technologies](https://github.com/mdn/translated-content/blob/main/files/ru/web/media/index.html))
+   - [ ] 📄 [Autoplay guide for media and Web Audio APIs](https://github.com/mdn/content/blob/main/files/en-us/web/media/autoplay_guide/index.html)
+   - [ ] 📄 [DASH Adaptive Streaming for HTML 5 Video](https://github.com/mdn/content/blob/main/files/en-us/web/media/dash_adaptive_streaming_for_html_5_video/index.html)
+   - [ ] 📂 __['Media type and format guide: image, audio, and video content'](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/index.html)__ (🌐 ['Media type and format guide: image, audio, and video content'](https://github.com/mdn/translated-content/blob/main/files/ru/web/media/formats/index.html))
+     - [ ] 📄 [Web audio codec guide](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/audio_codecs/index.html)
+     - [ ] 📄 [Digital audio concepts](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/audio_concepts/index.html)
+     - [ ] 📄 [The "codecs" parameter in common media types](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/codecs_parameter/index.html) (🌐 [Параметр "codecs" для распространённых типов носителей](https://github.com/mdn/translated-content/blob/main/files/ru/web/media/formats/codecs_parameter/index.html))
+     - [ ] 📄 [Media container formats \(file types\)](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/containers/index.html)
+     - [ ] 📄 [Image file type and format guide](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/image_types/index.html)
+     - [ ] 📄 [Handling media support issues in web content](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/support_issues/index.html)
+     - [ ] 📄 [Web video codec guide](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/video_codecs/index.html)
+     - [ ] 📄 [Digital video concepts](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/video_concepts/index.html)
+     - [ ] 📄 [Codecs used by WebRTC](https://github.com/mdn/content/blob/main/files/en-us/web/media/formats/webrtc_codecs/index.html) (🌐 [Кодеки, используемые WebRTC](https://github.com/mdn/translated-content/blob/main/files/ru/web/media/formats/webrtc_codecs/index.html))
+   - [ ] 📄 [Using audio and video in HTML](https://github.com/mdn/content/blob/main/files/en-us/web/media/html_media/index.html)
+   - [ ] 📂 __[Using images in HTML](https://github.com/mdn/content/blob/main/files/en-us/web/media/images/index.html)__
+     - [ ] 📄 [\>\-](https://github.com/mdn/content/blob/main/files/en-us/web/media/images/aspect_ratio_mapping/index.html)
+   - [ ] 📄 [Guide to streaming audio and video](https://github.com/mdn/content/blob/main/files/en-us/web/media/streaming/index.html)
+
